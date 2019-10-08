@@ -5,3 +5,5 @@ added spring-boot-starter-security dependency.
 ==> handles login errors
 ==> creates default user : user and password: <each time changes>.
 
+how it works like this ?
+==> in simple words it adds kind of filter to underneath servlets.
